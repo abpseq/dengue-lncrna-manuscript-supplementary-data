@@ -41,7 +41,7 @@ Location: `data/coding_potential/`
 ## Notes
 
 - Column names were normalized for consistency (trimmed whitespace, spaces converted to underscores, and minor punctuation cleaned).
-- The biological meaning of group labels (e.g., DI/DS/DWS) should match the manuscript definitions.
+- The biological meaning of group labels (e.g., DI/DS/DWS) match the manuscript definitions.
 
 ## Citation
 
