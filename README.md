@@ -45,4 +45,4 @@ Location: `data/coding_potential/`
 
 ## Citation
 
-If you archive this repository on Zenodo (recommended), cite the Zenodo DOI in the manuscript’s Data Availability section.
+## Soon
