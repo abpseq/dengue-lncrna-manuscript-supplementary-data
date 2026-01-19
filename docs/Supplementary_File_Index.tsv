@@ -1,0 +1,16 @@
+file	description
+data/differential_expression/Supplementary_Table_res_table_DI.tsv	Differential expression results table for group DI (used for Supplementary Tables).
+data/differential_expression/Supplementary_Table_res_table_DS.tsv	Differential expression results table for group DS (used for Supplementary Tables).
+data/differential_expression/Supplementary_Table_res_table_DWS.tsv	Differential expression results table for group DWS (used for Supplementary Tables).
+data/coding_potential/Supplementary_Table_DI_CPC.tsv	CPC (Coding Potential Calculator) output for group DI.
+data/coding_potential/Supplementary_Table_DS_CPC.tsv	CPC (Coding Potential Calculator) output for group DS.
+data/coding_potential/Supplementary_Table_DWS_CPC.tsv	CPC (Coding Potential Calculator) output for group DWS.
+data/coding_potential/Supplementary_Table_DI_CPAT.tsv	CPAT output for group DI.
+data/coding_potential/Supplementary_Table_DS_CPAT.tsv	CPAT output for group DS.
+data/coding_potential/Supplementary_Table_DWS_CPAT.tsv	CPAT output for group DWS.
+data/pfam_hmmscan/Supplementary_Data_DI_HMMSCAN.txt	HMMER hmmscan output against Pfam-A for DI selected sequences.
+data/pfam_hmmscan/Supplementary_Data_DS_HMMSCAN.txt	HMMER hmmscan output against Pfam-A for DS selected sequences.
+data/pfam_hmmscan/Supplementary_Data_DWS_HMMSCAN.txt	HMMER hmmscan output against Pfam-A for DWS selected sequences.
+data/selected_fasta/Supplementary_Data_DI_sel_result.fasta	FASTA sequences used as input for hmmscan (DI).
+data/selected_fasta/Supplementary_Data_DS_sel_result.fasta	FASTA sequences used as input for hmmscan (DS).
+data/selected_fasta/Supplementary_Data_DWS_sel_result.fasta	FASTA sequences used as input for hmmscan (DWS).

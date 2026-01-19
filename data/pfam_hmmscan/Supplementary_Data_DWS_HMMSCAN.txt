@@ -1,0 +1,571 @@
+# hmmscan :: search sequence(s) against a profile database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             ../DWS_sel_result.fasta
+# target HMM database:             Pfam-A.hmm
+# per-seq hits tabular output:     DWS_results.tbl
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       TCONS_00028422  [L=1249]
+Description: gene=XLOC_005141
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (1249 residues searched)
+Target model(s):                       16712  (2907032 nodes)
+Passed MSV filter:                      1332  (0.0797032); expected 334.2 (0.02)
+Passed bias filter:                      296  (0.0177118); expected 334.2 (0.02)
+Passed Vit filter:                       235  (0.0140618); expected 16.7 (0.001)
+Passed Fwd filter:                        23  (0.00137626); expected 0.2 (1e-05)
+Initial search space (Z):              16712  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.51u 0.05s 00:00:00.56 Elapsed: 00:00:00.57
+# Mc/sec: 6304.90
+//
+Query:       TCONS_00028485  [L=982]
+Description: gene=XLOC_005204
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (982 residues searched)
+Target model(s):                       16712  (2907032 nodes)
+Passed MSV filter:                      1346  (0.0805409); expected 334.2 (0.02)
+Passed bias filter:                      225  (0.0134634); expected 334.2 (0.02)
+Passed Vit filter:                       163  (0.00975347); expected 16.7 (0.001)
+Passed Fwd filter:                        26  (0.00155577); expected 0.2 (1e-05)
+Initial search space (Z):              16712  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.54u 0.05s 00:00:00.59 Elapsed: 00:00:00.58
+# Mc/sec: 4860.14
+//
+Query:       TCONS_00039940  [L=1200]
+Description: gene=XLOC_007864
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (1200 residues searched)
+Target model(s):                       16712  (2907032 nodes)
+Passed MSV filter:                      1650  (0.0987315); expected 334.2 (0.02)
+Passed bias filter:                      302  (0.0180708); expected 334.2 (0.02)
+Passed Vit filter:                       248  (0.0148396); expected 16.7 (0.001)
+Passed Fwd filter:                        34  (0.00203447); expected 0.2 (1e-05)
+Initial search space (Z):              16712  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.74u 0.05s 00:00:00.79 Elapsed: 00:00:00.79
+# Mc/sec: 4366.88
+//
+Query:       TCONS_00039942  [L=1543]
+Description: gene=XLOC_007866
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (1543 residues searched)
+Target model(s):                       16712  (2907032 nodes)
+Passed MSV filter:                      1594  (0.0953806); expected 334.2 (0.02)
+Passed bias filter:                      290  (0.0173528); expected 334.2 (0.02)
+Passed Vit filter:                       248  (0.0148396); expected 16.7 (0.001)
+Passed Fwd filter:                        39  (0.00233365); expected 0.2 (1e-05)
+Initial search space (Z):              16712  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.93u 0.07s 00:00:01.00 Elapsed: 00:00:01.02
+# Mc/sec: 4379.15
+//
+Query:       TCONS_00040154  [L=1729]
+Description: gene=XLOC_008077
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (1729 residues searched)
+Target model(s):                       16712  (2907032 nodes)
+Passed MSV filter:                      1248  (0.0746769); expected 334.2 (0.02)
+Passed bias filter:                      271  (0.0162159); expected 334.2 (0.02)
+Passed Vit filter:                       228  (0.0136429); expected 16.7 (0.001)
+Passed Fwd filter:                        21  (0.00125658); expected 0.2 (1e-05)
+Initial search space (Z):              16712  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.77u 0.05s 00:00:00.82 Elapsed: 00:00:00.81
+# Mc/sec: 6134.05
+//
+Query:       TCONS_00058572  [L=2741]
+Description: gene=XLOC_011293
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (2741 residues searched)
+Target model(s):                       16712  (2907032 nodes)
+Passed MSV filter:                      1406  (0.0841312); expected 334.2 (0.02)
+Passed bias filter:                      302  (0.0180708); expected 334.2 (0.02)
+Passed Vit filter:                       261  (0.0156175); expected 16.7 (0.001)
+Passed Fwd filter:                        32  (0.00191479); expected 0.2 (1e-05)
+Initial search space (Z):              16712  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 1.58u 0.06s 00:00:01.64 Elapsed: 00:00:01.64
+# Mc/sec: 4856.59
+//
+Query:       TCONS_00058652  [L=1181]
+Description: gene=XLOC_011372
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (1181 residues searched)
+Target model(s):                       16712  (2907032 nodes)
+Passed MSV filter:                      1402  (0.0838918); expected 334.2 (0.02)
+Passed bias filter:                      247  (0.0147798); expected 334.2 (0.02)
+Passed Vit filter:                       193  (0.0115486); expected 16.7 (0.001)
+Passed Fwd filter:                        27  (0.00161561); expected 0.2 (1e-05)
+Initial search space (Z):              16712  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.60u 0.05s 00:00:00.65 Elapsed: 00:00:00.65
+# Mc/sec: 5227.61
+//
+Query:       TCONS_00076658  [L=1986]
+Description: gene=XLOC_014282
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (1986 residues searched)
+Target model(s):                       16712  (2907032 nodes)
+Passed MSV filter:                      1520  (0.0909526); expected 334.2 (0.02)
+Passed bias filter:                      303  (0.0181307); expected 334.2 (0.02)
+Passed Vit filter:                       247  (0.0147798); expected 16.7 (0.001)
+Passed Fwd filter:                        34  (0.00203447); expected 0.2 (1e-05)
+Initial search space (Z):              16712  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.99u 0.06s 00:00:01.05 Elapsed: 00:00:01.04
+# Mc/sec: 5505.04
+//
+Query:       TCONS_00076660  [L=2422]
+Description: gene=XLOC_014284
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (2422 residues searched)
+Target model(s):                       16712  (2907032 nodes)
+Passed MSV filter:                      1404  (0.0840115); expected 334.2 (0.02)
+Passed bias filter:                      265  (0.0158569); expected 334.2 (0.02)
+Passed Vit filter:                       225  (0.0134634); expected 16.7 (0.001)
+Passed Fwd filter:                        35  (0.0020943); expected 0.2 (1e-05)
+Initial search space (Z):              16712  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 1.47u 0.05s 00:00:01.52 Elapsed: 00:00:01.52
+# Mc/sec: 4612.21
+//
+Query:       TCONS_00082106  [L=672]
+Description: gene=XLOC_015891
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (672 residues searched)
+Target model(s):                       16712  (2907032 nodes)
+Passed MSV filter:                      2048  (0.122547); expected 334.2 (0.02)
+Passed bias filter:                      330  (0.0197463); expected 334.2 (0.02)
+Passed Vit filter:                       234  (0.0140019); expected 16.7 (0.001)
+Passed Fwd filter:                        48  (0.00287219); expected 0.2 (1e-05)
+Initial search space (Z):              16712  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.57u 0.06s 00:00:00.62 Elapsed: 00:00:00.63
+# Mc/sec: 3067.37
+//
+Query:       TCONS_00082114  [L=1748]
+Description: gene=XLOC_015899
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (1748 residues searched)
+Target model(s):                       16712  (2907032 nodes)
+Passed MSV filter:                      1259  (0.0753351); expected 334.2 (0.02)
+Passed bias filter:                      262  (0.0156774); expected 334.2 (0.02)
+Passed Vit filter:                       205  (0.0122666); expected 16.7 (0.001)
+Passed Fwd filter:                        28  (0.00167544); expected 0.2 (1e-05)
+Initial search space (Z):              16712  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.85u 0.05s 00:00:00.90 Elapsed: 00:00:00.90
+# Mc/sec: 5629.83
+//
+Query:       TCONS_00186921  [L=1447]
+Description: gene=XLOC_033512
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (1447 residues searched)
+Target model(s):                       16712  (2907032 nodes)
+Passed MSV filter:                      1155  (0.069112); expected 334.2 (0.02)
+Passed bias filter:                      253  (0.0151388); expected 334.2 (0.02)
+Passed Vit filter:                       208  (0.0124461); expected 16.7 (0.001)
+Passed Fwd filter:                        22  (0.00131642); expected 0.2 (1e-05)
+Initial search space (Z):              16712  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.57u 0.05s 00:00:00.62 Elapsed: 00:00:00.63
+# Mc/sec: 6652.56
+//
+Query:       TCONS_00186939  [L=2700]
+Description: gene=XLOC_033530
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (2700 residues searched)
+Target model(s):                       16712  (2907032 nodes)
+Passed MSV filter:                      1558  (0.0932264); expected 334.2 (0.02)
+Passed bias filter:                      357  (0.0213619); expected 334.2 (0.02)
+Passed Vit filter:                       287  (0.0171733); expected 16.7 (0.001)
+Passed Fwd filter:                        26  (0.00155577); expected 0.2 (1e-05)
+Initial search space (Z):              16712  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 1.32u 0.05s 00:00:01.37 Elapsed: 00:00:01.37
+# Mc/sec: 5724.76
+//
+Query:       TCONS_00187057  [L=965]
+Description: gene=XLOC_033647
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (965 residues searched)
+Target model(s):                       16712  (2907032 nodes)
+Passed MSV filter:                      1483  (0.0887386); expected 334.2 (0.02)
+Passed bias filter:                      249  (0.0148995); expected 334.2 (0.02)
+Passed Vit filter:                       183  (0.0109502); expected 16.7 (0.001)
+Passed Fwd filter:                        31  (0.00185495); expected 0.2 (1e-05)
+Initial search space (Z):              16712  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.58u 0.05s 00:00:00.63 Elapsed: 00:00:00.62
+# Mc/sec: 4468.55
+//
+Query:       TCONS_00187147  [L=955]
+Description: gene=XLOC_033737
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (955 residues searched)
+Target model(s):                       16712  (2907032 nodes)
+Passed MSV filter:                      1374  (0.0822164); expected 334.2 (0.02)
+Passed bias filter:                      272  (0.0162757); expected 334.2 (0.02)
+Passed Vit filter:                       195  (0.0116683); expected 16.7 (0.001)
+Passed Fwd filter:                        29  (0.00173528); expected 0.2 (1e-05)
+Initial search space (Z):              16712  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.43u 0.04s 00:00:00.47 Elapsed: 00:00:00.48
+# Mc/sec: 5761.09
+//
+Query:       TCONS_00187164  [L=701]
+Description: gene=XLOC_033754
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (701 residues searched)
+Target model(s):                       16712  (2907032 nodes)
+Passed MSV filter:                      1377  (0.0823959); expected 334.2 (0.02)
+Passed bias filter:                      295  (0.017652); expected 334.2 (0.02)
+Passed Vit filter:                       237  (0.0141814); expected 16.7 (0.001)
+Passed Fwd filter:                        22  (0.00131642); expected 0.2 (1e-05)
+Initial search space (Z):              16712  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.32u 0.05s 00:00:00.37 Elapsed: 00:00:00.36
+# Mc/sec: 5583.90
+//
+Query:       TCONS_00187168  [L=553]
+Description: gene=XLOC_033758
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (553 residues searched)
+Target model(s):                       16712  (2907032 nodes)
+Passed MSV filter:                      1123  (0.0671972); expected 334.2 (0.02)
+Passed bias filter:                      210  (0.0125658); expected 334.2 (0.02)
+Passed Vit filter:                       157  (0.00939445); expected 16.7 (0.001)
+Passed Fwd filter:                        19  (0.00113691); expected 0.2 (1e-05)
+Initial search space (Z):              16712  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.22u 0.04s 00:00:00.26 Elapsed: 00:00:00.27
+# Mc/sec: 5888.05
+//
+Query:       TCONS_00187607  [L=1063]
+Description: gene=XLOC_034197
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (1063 residues searched)
+Target model(s):                       16712  (2907032 nodes)
+Passed MSV filter:                      1567  (0.093765); expected 334.2 (0.02)
+Passed bias filter:                      281  (0.0168143); expected 334.2 (0.02)
+Passed Vit filter:                       196  (0.0117281); expected 16.7 (0.001)
+Passed Fwd filter:                        41  (0.00245333); expected 0.2 (1e-05)
+Initial search space (Z):              16712  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.63u 0.06s 00:00:00.69 Elapsed: 00:00:00.69
+# Mc/sec: 4461.75
+//
+Query:       TCONS_00235467  [L=1038]
+Description: gene=XLOC_043219
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (1038 residues searched)
+Target model(s):                       16712  (2907032 nodes)
+Passed MSV filter:                      1409  (0.0843107); expected 334.2 (0.02)
+Passed bias filter:                      315  (0.0188487); expected 334.2 (0.02)
+Passed Vit filter:                       236  (0.0141216); expected 16.7 (0.001)
+Passed Fwd filter:                        27  (0.00161561); expected 0.2 (1e-05)
+Initial search space (Z):              16712  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.42u 0.04s 00:00:00.46 Elapsed: 00:00:00.46
+# Mc/sec: 6552.56
+//
+Query:       TCONS_00265730  [L=901]
+Description: gene=XLOC_050057
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (901 residues searched)
+Target model(s):                       16712  (2907032 nodes)
+Passed MSV filter:                      1581  (0.0946027); expected 334.2 (0.02)
+Passed bias filter:                      271  (0.0162159); expected 334.2 (0.02)
+Passed Vit filter:                       209  (0.012506); expected 16.7 (0.001)
+Passed Fwd filter:                        31  (0.00185495); expected 0.2 (1e-05)
+Initial search space (Z):              16712  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.51u 0.04s 00:00:00.55 Elapsed: 00:00:00.56
+# Mc/sec: 4676.49
+//
+[ok]
